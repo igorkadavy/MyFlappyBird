@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 194f5544aae951248b32339ae1b718a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 977748370981499767
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_0
+  - first:
+      213: 1123024550679868285
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_1
+  - first:
+      213: -3425246268802027822
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_2
+  - first:
+      213: 5390056596951636641
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_3
+  - first:
+      213: 8022806710322771095
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_4
+  - first:
+      213: 2509647415552909154
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_5
+  - first:
+      213: -336215153943110554
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_6
+  - first:
+      213: 7387260200492492875
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_7
+  - first:
+      213: 3155029426024818580
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_8
+  - first:
+      213: 4139409442539869374
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_9
+  - first:
+      213: 8351354846022006353
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_10
+  - first:
+      213: -3508736917147451848
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_11
+  - first:
+      213: -8976283626472315102
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_12
+  - first:
+      213: 8671301106124094161
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_13
+  - first:
+      213: -6254898863716732068
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_14
+  - first:
+      213: 6830185337077908270
+    second: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b11c86f8a19d00800000000000000
+      internalID: 977748370981499767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 191
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73f059f0e8c59f00800000000000000
+      internalID: 1123024550679868285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 191
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea2df8aa41770d0800000000000000
+      internalID: -3425246268802027822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa9d8ccae35dca40800000000000000
+      internalID: 5390056596951636641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 127
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b866423cb65f60800000000000000
+      internalID: 8022806710322771095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 127
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f128b170f04d220800000000000000
+      internalID: 2509647415552909154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 127
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1e1d4916855bf0800000000000000
+      internalID: -336215153943110554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 127
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b486cb15302d48660800000000000000
+      internalID: 7387260200492492875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4972d120c8ae8cb20800000000000000
+      internalID: 3155029426024818580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb49c7ad4f2227930800000000000000
+      internalID: 4139409442539869374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156f06e2cf8f5e370800000000000000
+      internalID: 8351354846022006353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e702b2d567e4fc0800000000000000
+      internalID: -3508736917147451848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22766f0a995dd6380800000000000000
+      internalID: -8976283626472315102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da7afad966a65870800000000000000
+      internalID: 8671301106124094161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c537b229f922239a0800000000000000
+      internalID: -6254898863716732068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacex_astronaut_spritesheet_by_gogoat1_dfsectu-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234c9e4061b9ce50800000000000000
+      internalID: 6830185337077908270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
